@@ -107,7 +107,7 @@ alias ydl="youtube-dl"
 alias anime="ani-cli"
 alias danime="ani-cli -d"
 alias animeh="ani-cli -H"
-alias danimeh="ani-cli -D
+alias danimeh="ani-cli -D"
 
 #zsh cache
 ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
