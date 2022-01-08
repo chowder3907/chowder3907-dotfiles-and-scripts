@@ -108,7 +108,7 @@ alias anime="ani-cli"
 alias danime="ani-cli -d"
 alias animeh="ani-cli -H"
 alias danimeh="ani-cli -D"
-alias notflix="~/Other/MullvadNetflix/notflix.sh"
+alias notflix="~/Scripts/notflix.sh"
 #zsh cache
 ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then
