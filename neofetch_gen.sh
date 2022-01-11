@@ -1,2 +1,3 @@
 #!/bin/bash
-neofetch > .cache/neofetch.txt
+touch ~/.cache/neofetch
+neofetch > ~/.cache/neofetch
