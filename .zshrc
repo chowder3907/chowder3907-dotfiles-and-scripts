@@ -11,5 +11,6 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 # custom prompt, in progress
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 PS1='%F{45}%n@%m%f %F{magenta}%2C%f $ '
